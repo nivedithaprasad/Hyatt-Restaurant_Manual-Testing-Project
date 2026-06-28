@@ -8,7 +8,7 @@ The test cases were designed based on user stories and cover multiple modules in
 * Home Page Module
 * Product Module
 
-Each test case contains:
+Each contains:
 
 * User Story ID
 * Test Scenario
