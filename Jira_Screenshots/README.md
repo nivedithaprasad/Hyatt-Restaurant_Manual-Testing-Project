@@ -1,6 +1,6 @@
 # Jira Artifacts
 
-This folder contains Jira and Zephyr artifacts created for the Hyatt Restaurant Manual Testing Project.
+This folder contains Jira and Zephyr artifacts created for each module of  the Hyatt Restaurant Manual Testing Project.
 
 Project Workflow
 
