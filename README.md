@@ -69,11 +69,18 @@ Epic → User Story → Sub-Tasks → Test Case Design → Test Case Execution �
 
 ## Project Statistics
 
+## Project Statistics
+
 - Total Test Cases: 30
+
 - Passed Test Cases: 26
+
 - Failed Test Cases: 4
+
 - Bugs Reported: 15
+
 - Bugs Closed: 11
+
 - Bugs Open/In Development: 4
 
 ## Skills Demonstrated
