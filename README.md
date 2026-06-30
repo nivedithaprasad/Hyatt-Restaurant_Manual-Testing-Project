@@ -69,7 +69,6 @@ Epic → User Story → Sub-Tasks → Test Case Design → Test Case Execution �
 
 ## Project Statistics
 
-## Project Statistics
 
 - Total Test Cases: 30
 
