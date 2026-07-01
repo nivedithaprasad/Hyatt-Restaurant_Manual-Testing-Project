@@ -49,20 +49,19 @@ This project demonstrates end-to-end manual testing activities performed for the
 - Actual Result
 - Severity
 - Priority
-- Workaround
+- Work Around
 - Screenshots
 - Status
 
 ## Deliverables
 
-* Epic and User Stories in Jira
-* Sub-Tasks in Jira
+* Epic,User Stories and Subtasks in Jira
 * Test Cases in Excel and Zephyr
 * Test Execution Results
 * Bug Reports
 * Jira Screenshots
 * Test Plan
-* Qa Status Report
+* QA Status Report
 
 ## Project Flow
 
