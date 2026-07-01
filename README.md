@@ -55,13 +55,14 @@ This project demonstrates end-to-end manual testing activities performed for the
 
 ## Deliverables
 
-* Epic in Jira
-* User Stories in Jira
+* Epic and User Stories in Jira
 * Sub-Tasks in Jira
 * Test Cases in Excel and Zephyr
 * Test Execution Results
 * Bug Reports
 * Jira Screenshots
+* Test Plan
+* Qa Status Report
 
 ## Project Flow
 
